@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MathHelper
+comment1.params=limit
+comment1.target=int\ sumOfSquares(int)
+comment2.params=limit
+comment2.target=int\ sumUpTo(int)
+numComments=3

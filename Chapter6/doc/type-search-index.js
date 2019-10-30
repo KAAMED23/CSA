@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Poll"},{"p":"<Unnamed>","l":"PollControlPanel"},{"p":"<Unnamed>","l":"PollDisplayPanel"},{"p":"<Unnamed>","l":"PollDisplayTest"},{"p":"<Unnamed>","l":"TimeLab"}]

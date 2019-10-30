@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OctagonBug
+comment1.params=length
+comment1.target=OctagonBug(int)
+comment1.text=\n\ Constructs\ a\ box\ bug\ that\ traces\ a\ square\ of\ a\ given\ side\ length\n\ @param\ length\ the\ side\ length\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Moves\ to\ the\ next\ location\ of\ the\ square.\n
+numComments=3
